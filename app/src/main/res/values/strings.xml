@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Whappening</string>
+    <string name="title_activity_maps">Whappening</string>
+    <string name="facebook_app_id">1841168345896891</string>
+    <string name="fb_login_protocol_scheme">fb1841168345896891</string>
+
+</resources>
